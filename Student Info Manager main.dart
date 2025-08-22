@@ -240,3 +240,4 @@ class ProfilePictureDisplay extends StatelessWidget {
     );
   }
 }
+
